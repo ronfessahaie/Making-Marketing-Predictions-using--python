@@ -1,2 +1,2 @@
 # Making-Marketing-Predictions-using--ython
-Making Marketing Predictions using Python
+This is a brief demo on how to use python to make marketing Predictions.
